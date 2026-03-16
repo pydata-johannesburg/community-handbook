@@ -1,0 +1,195 @@
+# Organiser Architecture for Resilient Communities
+
+## 10.1 Events Team
+
+### Core Function
+Responsible for end-to-end event execution from planning through post-event follow-up.
+
+### Team Structure
+- **Event Coordinator** (Lead role): Overall event planning and logistics
+- **Venue Manager**: Relationships with hosting organizations and space management
+- **Registration Coordinator**: Attendee management and communication
+- **Day-of-Event Team**: Setup, logistics, and on-site coordination
+
+### Key Responsibilities
+- Monthly event planning and scheduling
+- Venue booking and logistics coordination  
+- Registration management and attendee communication
+- Equipment and catering arrangements
+- Event day execution and volunteer coordination
+- Post-event cleanup and feedback collection
+
+### Skills and Qualifications
+- Project management and organizational skills
+- Vendor and venue relationship management
+- Crisis management and problem-solving
+- Communication and coordination abilities
+- Technical understanding for AV and equipment needs
+
+## 10.2 Speaker Pipeline Team
+
+### Core Function
+Building and maintaining sustainable speaker ecosystems that reduce organizer workload while improving content quality.
+
+### Team Structure
+- **Speaker Coordinator** (Lead role): Strategic speaker pipeline management
+- **Content Curator**: Talk quality and community fit assessment
+- **Speaker Mentors** (2-3 people): First-time speaker development and coaching
+- **Corporate Liaison**: Employee speaker relationships with partner companies
+
+### Key Responsibilities
+- Proactive speaker sourcing and relationship building
+- Speaker onboarding and content development support
+- Presentation coaching and feedback systems
+- Speaker database maintenance and performance tracking
+- Corporate speaker program development
+- Speaking skills workshops and training
+
+### Skills and Qualifications
+- Industry knowledge and professional networks
+- Presentation skills coaching and development
+- Content evaluation and curation abilities
+- Relationship building and communication
+- Technical expertise to assess presentation quality
+
+## 10.3 Industry Partnerships Team
+
+### Core Function  
+Developing mutually beneficial relationships with corporate organizations for venues, speakers, sponsorship, and community growth.
+
+### Team Structure
+- **Partnership Manager** (Lead role): Strategic relationship development
+- **Corporate Outreach Coordinator**: New partnership identification and development
+- **Venue Partnership Specialist**: Dedicated venue relationship management
+- **Sponsor Relations Coordinator**: Financial and in-kind sponsorship coordination
+
+### Key Responsibilities
+- Corporate partnership strategy and development
+- Venue partnership negotiation and management
+- Sponsorship relationship development and stewardship
+- Corporate employee engagement programs
+- Industry trend monitoring and community positioning
+- Partnership performance measurement and optimization
+
+### Skills and Qualifications
+- Business development and relationship management experience
+- Corporate communication and negotiation skills
+- Understanding of sponsorship and partnership models
+- Industry knowledge and professional credibility
+- Strategic thinking and long-term relationship building
+
+## 10.4 University Outreach Team
+
+### Core Function
+Bridging academic and industry communities to support student development and faculty engagement.
+
+### Team Structure
+- **Academic Liaison** (Lead role): University relationship development
+- **Student Engagement Coordinator**: Student-focused programming and support
+- **Faculty Relations Specialist**: Academic speaker and collaboration development
+- **Career Development Advisor**: Student career guidance and industry connections
+
+### Key Responsibilities
+- University partnership development and maintenance
+- Student participation and engagement programs
+- Faculty speaker recruitment and research collaboration
+- Career development and job placement support
+- Academic-industry project facilitation
+- Curriculum influence and educational program development
+
+### Skills and Qualifications
+- Academic background and university experience
+- Career development and mentorship experience
+- Understanding of academic-industry collaboration
+- Student engagement and program development
+- Research and educational background
+
+## 10.5 Marketing and Community Team
+
+### Core Function
+Building community brand, managing external communications, and driving community growth through strategic marketing.
+
+### Team Structure
+- **Marketing Manager** (Lead role): Brand strategy and campaign development
+- **Social Media Coordinator**: Day-to-day social media management and engagement
+- **Content Creator**: Blog posts, graphics, and educational content development
+- **Community Engagement Specialist**: Member communication and relationship building
+
+### Key Responsibilities
+- Brand development and message consistency
+- Social media strategy and content calendar
+- Event promotion and marketing campaign execution
+- Community newsletter and communication management
+- Website content and search engine optimization
+- Media relations and external communication
+
+### Skills and Qualifications
+- Marketing and communication experience
+- Social media management and content creation
+- Brand development and design capabilities
+- Community management and engagement
+- Technical writing and content development
+
+## 10.6 Infrastructure Team
+
+### Core Function
+Maintaining technical systems, digital assets, and community knowledge repository.
+
+### Team Structure
+- **Infrastructure Maintainer** (Lead role): Technical systems and architecture
+- **Website Administrator**: Community website and online presence
+- **Documentation Manager**: Community knowledge and process documentation
+- **Data Manager**: Community analytics and database management
+
+### Key Responsibilities
+- Community website and platform maintenance
+- GitHub organization and code repository management
+- Event documentation and slide archive management
+- Community data analysis and reporting
+- Technical tool evaluation and implementation
+- Security and privacy compliance management
+
+### Skills and Qualifications
+- Technical systems administration experience
+- Web development and platform management
+- Documentation and knowledge management
+- Data analysis and reporting capabilities
+- Security and privacy best practices understanding
+
+## Team Coordination and Integration
+
+### Cross-Team Communication
+- **Monthly All-Hands Meetings**: Strategic alignment and update sharing
+- **Project-Based Collaboration**: Joint initiatives requiring multiple teams  
+- **Shared Documentation**: Central knowledge base and communication channels
+- **Inter-Team Mentoring**: Skills sharing and cross-functional development
+
+### Resource Sharing
+- **Budget Coordination**: Shared financial resources and expense management
+- **Volunteer Pool**: Flexible volunteer assignment across teams as needed
+- **Expertise Exchange**: Leveraging skills across teams for community benefit
+- **Tool and Platform Sharing**: Common infrastructure and systems access
+
+### Quality Assurance
+- **Performance Metrics**: Team-specific and community-wide success measurement
+- **Regular Review Sessions**: Team effectiveness and improvement planning
+- **Community Feedback Integration**: Attendee and member input incorporation
+- **Best Practice Documentation**: Continuous improvement and knowledge capture
+
+## Scaling and Adaptation
+
+### Team Size Guidelines
+- **Stage 2 Community** (30-60 attendees): 1-2 people per team, some combined roles
+- **Stage 3 Community** (60-120 attendees): 2-4 people per team, specialized roles
+- **Stage 4 Community** (120+ attendees): Full teams with sub-specialization
+
+### Role Evolution
+Teams adapt responsibilities based on community growth phase, external opportunities, and member interests. Flexibility in team structure enables response to changing community needs and organizer availability.
+
+### Success Metrics
+- **Team Performance**: Delivery quality and timeline adherence
+- **Community Impact**: Growth metrics and member satisfaction
+- **Organizer Development**: Skills growth and leadership advancement
+- **Sustainability**: Volunteer retention and succession planning effectiveness
+
+This organizer architecture provides structure while maintaining flexibility, ensuring that PyData Johannesburg can scale effectively while preserving the community values and quality that drive long-term success.

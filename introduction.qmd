@@ -1,0 +1,52 @@
+# Introduction
+
+## 1.1 Purpose of this Handbook
+
+This handbook exists to capture the institutional knowledge, operational processes, and strategic insights gained from organizing PyData Johannesburg. It serves as:
+
+- A **practical guide** for current and future organizers
+- A **knowledge repository** documenting what works (and what doesn't) in the South African context
+- A **strategic framework** for sustainable community growth
+- A **model** that other emerging market communities can adapt and learn from
+
+Too many developer communities fail when founders step back or organizers burn out. This handbook aims to prevent that by making the invisible work of community building visible and transferable.
+
+## 1.2 Mission of PyData Johannesburg
+
+PyData Johannesburg exists to:
+
+- **Advance the Python data ecosystem** in South Africa through education, collaboration, and knowledge sharing
+- **Connect practitioners** across industry, academia, and open source projects
+- **Provide a platform** for both experienced and emerging voices in the data community
+- **Bridge the gap** between global developments and local application of data science tools and techniques
+- **Foster inclusive growth** in South Africa's data science and analytics capabilities
+
+## 1.3 Relationship to the Python Software Foundation
+
+PyData Johannesburg operates under the umbrella of NumFOCUS and maintains strong ties with the broader Python ecosystem:
+
+- **License to use PyData branding** and event formats
+- **Access to speaker networks** and international expertise  
+- **Alignment with PSF values** of diversity, inclusion, and open source collaboration
+- **Participation in global initiatives** like Python Software Foundation grants and programs
+
+This relationship provides legitimacy and resources while allowing local autonomy in community building.
+
+## 1.4 The Role of PyData in the South African Data Ecosystem
+
+South Africa's data ecosystem is rapidly evolving, with PyData Johannesburg playing several key roles:
+
+### Industry Connector
+Creating bridges between data teams at banks, telecoms, retailers, and startups - fostering cross-industry knowledge transfer.
+
+### Talent Development Hub  
+Providing a platform for junior practitioners to learn from seniors, and for career transitions into data roles.
+
+### Open Source Gateway
+Introducing South African developers to international open source projects and contribution opportunities.
+
+### Academic Bridge
+Connecting university research with industry applications, helping translate academic work into practical solutions.
+
+### Policy Voice
+As the ecosystem matures, representing the technical community's perspective on data governance, regulation, and skills development.

@@ -1,0 +1,201 @@
+# The 7 Signals a Community is About to Accelerate
+
+Successful communities exhibit predictable signals before entering periods of rapid growth. Recognizing these signals helps organizers prepare for and capitalize on acceleration opportunities.
+
+## 11.1 Speakers Begin Approaching the Community
+
+### The Signal
+Instead of organizers constantly searching for speakers, people start volunteering to present.
+
+### What This Means
+- **Community reputation**: Quality and audience size attract speakers
+- **Professional value**: Speakers see career benefit in community participation
+- **Content pipeline**: Sustainable speaker flow without organizer effort
+- **Topic diversity**: Speaker self-selection brings varied expertise
+
+### How to Recognize
+- Direct emails or messages from potential speakers
+- Recommendations from current speakers bringing colleagues
+- LinkedIn messages about speaking opportunities
+- Company employees asking to represent their organizations
+
+### How to Capitalize
+- Create formal speaker application process
+- Develop speaker mentorship and support systems
+- Build waiting list for future events 
+- Maintain quality standards as volume increases
+
+### PyData Johannesburg Experience
+This signal emerged when industry professionals began reaching out after successful events, particularly when companies started encouraging employees to speak at community events.
+
+## 11.2 Companies Offer Venues
+
+### The Signal
+Organizations proactively offer office space and facilities for events.
+
+### What This Means
+- **Corporate recognition**: Companies see value in community association
+- **Venue stability**: Reduced logistical burden on organizers
+- **Employee engagement**: Companies want staff involvement
+- **Partnership opportunities**: Foundation for deeper collaboration
+
+### How to Recognize
+- Facility managers reaching out about hosting
+- Employees suggesting their offices as venues
+- Companies including community support in diversity and inclusion initiatives
+- HR departments promoting community involvement
+
+### How to Capitalize
+- Develop venue partnership program with clear expectations
+- Create rotation system across multiple corporate partners
+- Establish guidelines for venue requirements and setup
+- Build recognition programs for hosting companies
+
+## 11.3 Attendees Recognise Each Other
+
+### The Signal
+Community members start encountering each other in professional contexts outside events.
+
+### What This Means
+- **Community density**: Enough members to enable random encounters
+- **Professional integration**: Community becomes part of professional network
+- **Social proof**: Community membership signals professional commitment
+- **Ecosystem influence**: Community represents significant portion of local ecosystem
+
+### How to Recognize
+- Members reporting workplace encounters with other attendees
+- Social media photos showing community members at other industry events
+- Job referrals and recommendations between community members
+- Collaboration projects initiated through community connections
+
+### How to Capitalize
+- Facilitate networking and contact sharing
+- Create online community spaces for ongoing interaction
+- Organize social events beyond technical presentations
+- Encourage professional collaboration and project partnerships
+
+## 11.4 First-Time Speakers Appear
+
+### The Signal
+Community members with no previous speaking experience volunteer to present.
+
+### What This Means
+- **Psychological safety**: Environment encourages risk-taking
+- **Skill development**: Community provides learning opportunities
+- **Leadership emergence**: Natural speaker development pipeline
+- **Content authenticity**: Local perspectives and real experience
+
+### How to Recognize
+- Lightning talks from regular attendees
+- Requests for presentation coaching and feedback
+- Members asking about speaking opportunities  
+- Workshop leaders emerging from attendee base
+
+### How to Capitalize
+- Create structured speaker development programs
+- Offer presentation skills workshops and coaching
+- Establish lightning talk formats for practice
+- Connect new speakers with experienced mentors
+
+### Speaker Development Pipeline
+```{mermaid}
+flowchart LR
+    Attendee --> QuestionAsker[Active Q&A Participant]
+    QuestionAsker --> LightningTalk[5-min Lightning Talk]
+    LightningTalk --> Workshop[Workshop Leader]
+    Workshop --> FullTalk[Full Presentation]
+    FullTalk --> Mentor[Speaker Mentor]
+```
+
+## 11.5 Reputation Emerges
+
+### The Signal
+The community develops recognized standing in broader professional ecosystem.
+
+### What This Means
+- **Industry credibility**: Community opinions and decisions carry weight
+- **Talent transparency**: Participation signals professional competence
+- **Policy influence**: Community voice relevant in industry discussions
+- **International recognition**: Connection to global ecosystem
+
+### How to Recognize
+- Media coverage of community events and initiatives
+- Industry conference organizers seeking community recommendations
+- University partnerships and guest lecture requests
+- Government or industry body consultation requests
+
+### How to Capitalize
+- Develop consistent messaging and community brand
+- Create content strategy for thought leadership
+- Build relationships with media and industry publications
+- Establish community positions on relevant industry topics
+
+## 11.6 Volunteers Step Forward
+
+### The Signal
+Community members offer specific help without being asked.
+
+### What This Means
+- **Investment psychology**: Members feel ownership in community success
+- **Skills availability**: Community has capacity for additional activities
+- **Leadership development**: Natural organizer pipeline emerging
+- **Sustainability foundation**: Reduced dependency on founding organizers
+
+### How to Recognize
+- Offers to help with event setup and logistics
+- Volunteers for specific technical projects (website, documentation)
+- Members taking initiative in online discussions and support
+- Suggestions for community improvements and new initiatives
+
+### How to Capitalize
+- Create clear volunteer pathways and recognition
+- Develop organizer training and onboarding processes
+- Establish project-based volunteer opportunities
+- Build succession planning into all organizer roles
+
+## 11.7 The Community Connects Multiple Ecosystems
+
+### The Signal
+Community becomes bridge between different professional communities and sectors.
+
+### What This Means
+- **Ecosystem integration**: Community facilitates cross-sector collaboration
+- **Knowledge transfer**: Different industries learning from each other
+- **Innovation catalyst**: Unexpected connections create new opportunities
+- **Strategic importance**: Community becomes essential infrastructure
+
+### How to Recognize
+- Academic researchers presenting industry applications
+- Corporate speakers sharing open source contributions  
+- Cross-industry collaboration projects initiated through community
+- International connections and speaker exchanges
+
+### How to Capitalize
+- Actively program content that bridges different sectors
+- Facilitate introductions between members from different contexts
+- Create special events focused on cross-sector collaboration
+- Document and share success stories of ecosystem connections
+
+## Acceleration Preparation Strategy
+
+### When Multiple Signals Appear
+If PyData Johannesburg exhibits 4+ signals simultaneously, prepare for rapid growth by:
+
+1. **Scaling infrastructure**: Ensure systems can handle increased volume
+2. **Organizer development**: Recruit and train additional team members
+3. **Quality maintenance**: Establish systems to maintain standards during growth
+4. **Strategic planning**: Define growth objectives and community direction
+5. **Partnership development**: Build relationships to support expanded activities
+
+### Signal Monitoring System
+Track these indicators monthly through:
+- Organizer feedback and observations
+- Community surveys and feedback forms  
+- Social media and online engagement metrics
+- Industry relationship and partnership development
+- Volunteer and speaker pipeline health
+
+### Timeline Expectations
+Communities typically show acceleration signals 6-12 months before entering rapid growth phase. Early recognition enables proactive preparation rather than reactive management of community growth.
+
+The combination of multiple signals indicates readiness for the jump from Stage 2 (Early Community) to Stage 3 (Guild Community) in the maturity model.

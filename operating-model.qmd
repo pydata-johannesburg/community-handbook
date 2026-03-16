@@ -1,0 +1,165 @@
+# PyData Johannesburg Operating Model
+
+## 2.1 Core Principles
+
+PyData Johannesburg operates on four foundational principles that guide all decisions and activities:
+
+### Community First
+- **Member needs drive decisions**: Event topics, timing, and format respond to community feedback
+- **Inclusive by design**: Actively work to reduce barriers to participation  
+- **Value contribution over consumption**: Encourage active participation from attendees
+- **Shared ownership**: Community members have agency in shaping direction
+
+### Lightweight Governance
+- **Minimal bureaucracy**: Keep processes simple and avoid unnecessary complexity
+- **Distributed decision-making**: Empower organizers to act within agreed frameworks
+- **Transparent operations**: Share decision-making rationale with the community
+- **Iterative improvement**: Regularly review and adjust processes based on outcomes
+
+### Professional Standards
+- **Quality content**: Maintain high standards for talks and workshops
+- **Respectful environment**: Enforce code of conduct consistently and fairly
+- **Industry relevance**: Balance learning opportunities with practical applications
+- **Reliable operations**: Deliver consistent, well-organized events
+
+### Industry + Open Source Collaboration
+- **Bridge building**: Connect corporate users with open source contributors
+- **Knowledge flow**: Facilitate learning in both directions between industry and projects
+- **Sustainable partnerships**: Build mutually beneficial relationships with sponsors
+- **Global connection**: Link local community to international developments
+
+## 2.2 Organisational Structure
+
+PyData Johannesburg follows a **guild model** with distributed leadership rather than a single organizer handling all responsibilities. This structure ensures sustainability, prevents burnout, and enables specialization.
+
+```{mermaid}
+flowchart TB
+    Lead[Community Lead]
+    
+    Lead --> Events[Events Team]
+    Lead --> Speakers[Speaker Pipeline Team]
+    Lead --> Partnerships[Industry Partnerships]
+    Lead --> Universities[University Outreach]
+    Lead --> Marketing[Marketing & Community]
+    Lead --> Infrastructure[Infrastructure Team]
+    
+    Events --> EventCoord[Event Coordinator]
+    Events --> Volunteers[Event Volunteers]
+    
+    Speakers --> SpeakerCoord[Speaker Coordinator]  
+    Speakers --> Mentors[Speaker Mentors]
+    
+    Partnerships --> CorpRel[Corporate Relations]
+    Partnerships --> Venues[Venue Partners]
+    
+    Universities --> AcademicOut[Academic Outreach]
+    Universities --> StudentEng[Student Engagement]
+```
+
+### 2.2.1 Lead Organiser
+**Primary responsibility**: Overall community strategy and coordination
+
+**Key activities**:
+- Set strategic direction for community growth
+- Coordinate between different organizer teams
+- Manage relationships with NumFOCUS and global PyData network
+- Handle escalated issues and conflicts
+- Represent community externally
+
+**Time commitment**: 3-5 hours per week
+**Term**: 12-18 months with succession planning
+
+### 2.2.2 Community Organisers (2-3 people)
+**Primary responsibility**: Day-to-day community engagement and member experience
+
+**Key activities**:
+- Respond to community questions and feedback
+- Facilitate discussions in community channels
+- Identify emerging topics and speakers
+- Support new member onboarding
+- Monitor community health metrics
+
+**Time commitment**: 2-3 hours per week
+**Term**: 6-12 months with flexible rotation
+
+### 2.2.3 Event Coordinator
+**Primary responsibility**: End-to-end event execution
+
+**Key activities**:
+- Schedule and coordinate with venues
+- Manage event logistics (catering, AV, setup)
+- Handle registrations and attendee communications
+- Coordinate day-of-event operations
+- Collect and analyze event feedback
+
+**Time commitment**: 4-6 hours per month, 8+ hours during event weeks
+**Term**: 6-12 months
+
+### 2.2.4 Speaker Coordinator
+**Primary responsibility**: Speaker pipeline and content quality
+
+**Key activities**:
+- Source and evaluate potential speakers
+- Support speaker preparation and content development
+- Manage speaker communications and scheduling
+- Maintain speaker database and feedback systems
+- Develop relationships with companies for employee speakers
+
+**Time commitment**: 3-4 hours per week  
+**Term**: 12-18 months (relationship building benefits from continuity)
+
+### 2.2.5 Marketing & Community Manager
+**Primary responsibility**: Community growth and external communications
+
+**Key activities**:
+- Manage social media presence and event promotion
+- Create and distribute marketing materials
+- Build relationships with media and other communities
+- Track and analyze community growth metrics
+- Coordinate with sponsors on promotional activities
+
+**Time commitment**: 2-3 hours per week
+**Term**: 6-12 months
+
+### 2.2.6 Infrastructure Maintainer
+**Primary responsibility**: Technical systems and digital assets
+
+**Key activities**:
+- Maintain community websites and online presence
+- Manage community communication platforms
+- Handle video recording and publishing workflows
+- Maintain speaker and event databases
+- Ensure data privacy and security compliance
+
+**Time commitment**: 2-4 hours per month, more during system updates
+**Term**: 12+ months (technical knowledge accumulates over time)
+
+## 2.3 Organiser Expectations
+
+### Time Commitment
+Organizing requires consistent, sustainable effort rather than intense bursts:
+- **Minimum viable**: 2 hours per week for most roles
+- **Optimal performance**: 3-5 hours per week for lead roles
+- **Event weeks**: Expect 50-100% increase in time requirements
+- **Flexibility**: Workload varies by season and community growth phase
+
+### Responsibilities
+All organizers are expected to:
+- **Attend monthly organizer meetings** (1 hour, virtual)
+- **Participate in 80% of community events** (either in person or virtual)
+- **Respond to community communications** within 48 hours during business days
+- **Complete assigned pre-event tasks** at least 1 week before events
+- **Provide feedback and improvement suggestions** after each event
+
+### Professional Conduct
+- **Represent PyData values** in all community interactions
+- **Maintain confidentiality** around sensitive community or sponsor information
+- **Declare conflicts of interest** when they arise
+- **Support fellow organizers** and share workload during busy periods
+- **Follow escalation procedures** for difficult situations
+
+### Promotion and Outreach
+- **Personal networks**: Leverage professional connections to identify speakers and attendees
+- **Industry presence**: Attend other data events to build relationships and represent PyData
+- **Content creation**: Contribute blogs, social posts, or talks about community activities
+- **Mentorship**: Support new organizers and community members

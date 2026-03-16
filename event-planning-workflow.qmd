@@ -1,0 +1,203 @@
+# Event Planning Workflow
+
+PyData Johannesburg follows a systematic 6-step workflow that ensures consistency and quality across all events while remaining flexible for different event types.
+
+## The 6-Step Process
+
+```{mermaid}
+flowchart LR
+    A[1. Identify Speaker] --> B[2. Confirm Talk]
+    B --> C[3. Create Event]
+    C --> D[4. Promote Event]
+    D --> E[5. Run Event]
+    E --> F[6. Post-Event Publishing]
+```
+
+## Step 1: Identify Speaker (4-6 weeks before)
+
+**Responsible**: Speaker Coordinator + Community Organisers  
+**Timeline**: 4-6 weeks before event date
+
+### Process
+1. **Review speaker database** for potential matches to community interests
+2. **Monitor industry developments** for timely and relevant topics
+3. **Accept speaker proposals** through community channels and networks
+4. **Evaluate speaker fit** against community needs and diversity goals
+5. **Confirm availability** and initial interest from potential speakers
+
+### Speaker Sources
+- **Internal pipeline**: Previous attendees who've shown engagement
+- **Corporate partnerships**: Employee speakers from partner companies
+- **University connections**: Academic researchers and faculty
+- **Industry networks**: Professional connections and recommendations
+- **Conference circuits**: Speakers from other events and communities
+- **Open applications**: Community members and external proposals
+
+### Evaluation Criteria
+- **Topic relevance**: Alignment with community interests and learning goals
+- **Speaker experience**: Presentation skills and technical expertise
+- **Audience fit**: Appropriate level for mixed-experience audience
+- **Diversity**: Representation across different backgrounds and perspectives
+- **Practical value**: Real-world applications and actionable insights
+
+**Success Criteria**: Speaker confirmed with compelling topic aligned to community interests
+
+## Step 2: Confirm Talk (3-4 weeks before)
+
+**Responsible**: Speaker Coordinator  
+**Timeline**: 3-4 weeks before event date
+
+### Process
+1. **Finalize talk details**: Title, abstract, and clear learning objectives
+2. **Set format expectations**: Standard 45-minute presentation plus Q&A
+3. **Confirm technical requirements**: Slides, live demos, coding examples
+4. **Schedule preparation support**: Brief prep call 1 week before event
+5. **Add to event systems**: Update management system with talk details
+
+### Talk Development Support
+- **Content review**: Feedback on abstract and learning objectives
+- **Audience briefing**: Information about typical attendee backgrounds
+- **Technical setup**: AV requirements and presentation format guidelines
+- **Practice opportunities**: Optional rehearsal sessions with organizers
+- **Backup plans**: Contingencies for live demos and internet connectivity
+
+### Documentation Requirements
+- **Speaker bio**: Professional background and photo for promotion
+- **Talk abstract**: 2-3 paragraphs describing content and takeaways
+- **Technical needs**: Equipment, software, and setup requirements
+- **Contact information**: Multiple communication methods and emergency contacts
+
+**Success Criteria**: Talk scope defined and speaker prepared for delivery
+
+## Step 3: Create Event (3 weeks before)
+
+**Responsible**: Event Coordinator + Marketing Manager  
+**Timeline**: 3 weeks before event date
+
+### Process
+1. **Secure venue**: Confirm location, capacity, AV setup, and catering arrangements
+2. **Create event listings**: Publish on Meetup, LinkedIn, and other platforms
+3. **Set up registration**: Configure system with appropriate capacity limits
+4. **Generate promotional materials**: Graphics, descriptions, and social media content
+5. **Schedule promotion campaign**: Plan announcement timing across all channels
+
+### Venue Coordination
+- **Capacity planning**: Match venue size to expected attendance plus buffer
+- **Technical setup**: Confirm projector, microphone, WiFi, and power availability
+- **Accessibility**: Ensure venue meets accessibility requirements
+- **Catering arrangements**: Coordinate refreshments if provided
+- **Backup planning**: Alternative venue options in case of cancellation
+
+### Registration Management
+- **Platform setup**: Configure Meetup or alternative registration system
+- **Capacity limits**: Set registration cap at 80-90% of venue capacity
+- **Waitlist activation**: Enable waiting list for oversubscribed events
+- **Communication templates**: Prepare confirmation and reminder messages
+
+**Success Criteria**: Event published and registration open with first attendees signed up
+
+## Step 4: Promote Event (2-3 weeks before)
+
+**Responsible**: Marketing Manager + All Organizers  
+**Timeline**: 2-3 weeks leading up to event
+
+### Promotion Strategy
+- **Multi-channel approach**: Coordinate messaging across all community platforms
+- **Personal outreach**: Direct communication to key community members
+- **Cross-promotion**: Share with related communities and professional networks
+- **Speaker networks**: Leverage speaker's professional connections and social media
+- **Corporate partnerships**: Internal promotion within partner companies
+
+### Channel-Specific Tactics
+
+**LinkedIn**
+- Professional event announcement with speaker credentials
+- Industry-relevant hashtags and company tagging
+- Event-specific graphics and compelling descriptions
+
+**Meetup Platform**  
+- SEO-optimized titles and descriptions for discovery
+- Event photos and detailed agenda information
+- Regular updates and engagement with questions
+
+**WhatsApp Community**
+- Concise announcements with key details
+- Personal messages to highly engaged members
+- Reminders without spam or overposting
+
+**University Networks**
+- Faculty and student mailing list announcements
+- Campus poster placement where allowed
+- Direct outreach to relevant academic departments
+
+**Success Criteria**: 80%+ of venue capacity registered 48 hours before event
+
+## Step 5: Run Event (Event day)
+
+**Responsible**: Event Coordinator + Volunteers  
+**Timeline**: Event day execution
+
+### Pre-Event Setup (Arrive 45 minutes early)
+1. **Venue preparation**: Room layout, signage, and registration table
+2. **Technical testing**: AV equipment, presentation setup, and backup systems
+3. **Speaker coordination**: Final preparation and technical check
+4. **Volunteer briefing**: Role assignments and contingency procedures
+5. **Registration setup**: Check-in process and attendee materials
+
+### Event Execution
+1. **Welcome and networking** (15 minutes): Arrival and informal introductions
+2. **Community updates** (10 minutes): Announcements and upcoming events
+3. **Main presentation** (45 minutes): Speaker presentation with embedded Q&A
+4. **Extended discussion** (20 minutes): Deeper questions and community interaction
+5. **Networking wrap-up** (30 minutes): Continued discussion and connections
+
+### Day-of Responsibilities
+- **Attendee management**: Welcome, introductions, and networking facilitation
+- **Technical support**: AV troubleshooting and presentation assistance  
+- **Photography**: Event photos for social media and archive
+- **Time management**: Agenda adherence and smooth transitions
+- **Problem solving**: Handle unexpected issues and logistics challenges
+
+**Success Criteria**: Event runs smoothly with positive attendee feedback
+
+## Step 6: Post-Event Publishing (Within 1 week)
+
+**Responsible**: Infrastructure Maintainer + Marketing Manager  
+**Timeline**: Within 1 week after event
+
+### Immediate Actions (Within 24 hours)
+- **Social media thank you**: Public recognition of speaker and venue
+- **Photo sharing**: Key event moments on community channels
+- **Slide upload**: Presentation materials to GitHub repository
+- **Venue appreciation**: Thank you message to hosting organization
+
+### Short-term Follow-up (Within 1 week)
+- **Event summary**: Blog post or detailed social media recap
+- **Resource sharing**: Speaker contact information and related links
+- **Attendee communication**: Follow-up email with materials and resources
+- **Database updates**: Speaker feedback and performance notes
+- **Feedback analysis**: Review attendee surveys and comments
+
+### Long-term Integration (Within 1 month)
+- **Lessons learned**: Documentation of what worked and what didn't
+- **Speaker pipeline**: Add successful speakers to repeat speaker list
+- **Partnership development**: Strengthen relationships based on event success
+- **Community engagement**: Follow up with new members and active participants
+
+**Success Criteria**: Event materials publicly available and feedback collected for improvement
+
+## Workflow Optimization
+
+### Process Improvements
+- **Template development**: Standardized materials for each workflow step
+- **Automation opportunities**: Reduce manual work through tools and systems
+- **Quality checkpoints**: Regular reviews to maintain standards
+- **Feedback integration**: Continuous improvement based on organizer and attendee input
+
+### Risk Management
+- **Backup speakers**: Maintained list for last-minute cancellations
+- **Venue alternatives**: Multiple venue relationships for flexibility
+- **Technical contingencies**: Equipment backup and troubleshooting procedures
+- **Communication protocols**: Clear escalation paths for problems
+
+This systematic workflow ensures consistent quality while maintaining the flexibility needed for different event types and changing community needs.

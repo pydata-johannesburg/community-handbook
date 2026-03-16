@@ -1,0 +1,117 @@
+# The 5 Structures of Long-Lived Developer Communities
+
+## 6.1 The Guild Structure
+**Distributed leadership model**
+
+The most sustainable developer communities operate like medieval guilds - with multiple levels of expertise and responsibility, clear pathways for advancement, and shared ownership of community success.
+
+**Key components**:
+- **Master Craftspeople**: Senior organizers who can run major initiatives independently
+- **Journeypeople**: Experienced contributors who can take on significant responsibilities with guidance  
+- **Apprentices**: New volunteers learning community operations through structured support
+- **Specialists**: Contributors with deep expertise in specific areas (marketing, technical infrastructure, etc.)
+
+**Implementation for PyData Johannesburg**:
+- Formal organizer leveling system with clear expectations and privileges
+- Mentorship relationships between senior and junior organizers
+- Skills-based specialization rather than general "organizer" roles
+- Regular advancement opportunities and recognition systems
+
+## 6.2 The Speaker Engine
+**Building a sustainable speaker pipeline**
+
+Healthy communities generate speakers internally rather than constantly searching externally.
+
+**Pipeline stages**:
+1. **Active Attendees**: Regular participants who ask good questions and contribute to discussions
+2. **Lightning Talkers**: Short 5-10 minute presentations on specific tools or problems
+3. **Workshop Leaders**: Hands-on technical sessions that demonstrate teaching ability
+4. **Feature Speakers**: Full 45-60 minute presentations on substantial topics
+5. **Repeat Speakers**: Trusted presenters who can adapt content for different audiences
+
+**Development tactics**:
+- Monthly lightning talk opportunities at regular events
+- Speaker mentorship program pairing new speakers with experienced ones
+- Technical workshops that identify teaching talent
+- "Call for Papers" that actively encourages first-time speakers
+- Speaker feedback and improvement systems
+
+## 6.3 Venue Alliances
+**Corporate partnerships for hosting**
+
+Sustainable communities need reliable venue partnerships that go beyond transactional arrangements.
+
+**Partnership levels**:
+
+**Tier 1 - Strategic Partners**: Companies hosting 3+ events per year
+- Employee speaker pipeline development
+- Co-branded marketing and promotion
+- Dedicated venue spaces with technical setup
+- Catering partnerships and extended networking time
+
+**Tier 2 - Regular Hosts**: Companies hosting 1-2 events per year  
+- Professional venue space with AV capabilities
+- Basic catering or refreshments
+- Employee attendance and engagement
+- Cross-promotion in company communications
+
+**Tier 3 - Occasional Venues**: Companies willing to host when topics align
+- Meeting space availability  
+- Employee participation in specific events
+- Industry expertise sharing opportunities
+
+**Partnership development**:
+- Systematic outreach to data-mature companies
+- Multi-touch relationship building with facility managers and dev teams
+- Value demonstration through attendee feedback and photos
+- Long-term agreements that provide mutual benefits
+
+## 6.4 Event Rhythm  
+**Consistent community cadence**
+
+Predictable scheduling creates anticipation and enables planning for all community stakeholders.
+
+**Rhythm benefits**:
+- **Attendees** can block calendars and build attendance habits
+- **Speakers** can prepare content with adequate notice and feedback cycles
+- **Organizers** can batch similar tasks and reduce decision fatigue  
+- **Sponsors** can integrate community events into their annual planning
+
+**Successful rhythm patterns**:
+- **Monthly technical talks**: Third Thursday of each month, 6PM start
+- **Quarterly workshops**: Weekend technical deep-dives
+- **Annual conference**: Full-day event with international speakers
+- **Seasonal networking**: Social events aligned with industry calendar
+
+**Rhythm maintenance**:
+- Pre-scheduled events 3-6 months in advance
+- Buffer events prepared for speaker cancellations
+- Consistent messaging about schedule reliability
+- Community feedback integration that maintains predictability
+
+## 6.5 Identity Layer
+**Creating roles and belonging**
+
+Long-lived communities develop clear identity categories that help members understand how they belong and how they can contribute.
+
+**Identity categories for PyData Johannesburg**:
+
+**The Data Practitioner**: Working professionals applying Python to real business problems
+**The Tool Builder**: Contributors to open source data science libraries and frameworks  
+**The Academic Researcher**: University researchers working on data science methodology
+**The Career Changer**: Professionals transitioning into data roles from other fields
+**The Student**: People learning data science through courses, bootcamps, or self-study
+**The Industry Veteran**: Senior professionals sharing experience and mentoring others
+
+**Identity reinforcement tactics**:
+- Content programming that speaks to different identity groups
+- Networking facilitation that connects members within and across identities
+- Recognition systems that celebrate contributions from all identity types  
+- Mentorship programs that support identity development and career growth
+- Community roles and titles that reflect identity and contribution levels
+
+**Belonging indicators**:
+- Members can see themselves in community content and speakers
+- Clear pathways exist for deepening involvement regardless of starting point
+- Community celebrates diverse forms of expertise and contribution
+- Members actively invite others who share their identity or interests

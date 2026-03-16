@@ -1,0 +1,190 @@
+# Event Operations
+
+## 3.1 Event Planning Workflow
+
+PyData Johannesburg follows a systematic 6-step process for event planning that ensures consistency and quality while remaining flexible enough to adapt to different event types and circumstances.
+
+### Step 1: Identify Speaker
+**Timeline**: 4-6 weeks before event  
+**Responsible**: Speaker Coordinator + Community Organisers
+
+**Process**:
+- Review speaker database for potential matches to community interests
+- Monitor industry developments for timely topics
+- Accept speaker proposals through community channels
+- Evaluate speaker fit against community needs and diversity goals
+- Confirm speaker availability and interest
+
+**Success criteria**: Speaker confirmed with compelling topic aligned to community interests
+
+### Step 2: Confirm Talk
+**Timeline**: 3-4 weeks before event  
+**Responsible**: Speaker Coordinator
+
+**Process**:  
+- Finalize talk title, abstract, and learning objectives
+- Set expectations for talk length and format (45min + Q&A is standard)
+- Confirm technical requirements (slides, demos, live coding)
+- Schedule brief prep call with speaker 1 week before event
+- Add talk details to event management system
+
+**Success criteria**: Talk scope defined and speaker prepared for delivery
+
+### Step 3: Create Event
+**Timeline**: 3 weeks before event  
+**Responsible**: Event Coordinator + Marketing Manager
+
+**Process**:
+- Secure venue and confirm capacity, AV setup, catering
+- Create event listings on Meetup, LinkedIn, and other platforms
+- Set up registration system with appropriate capacity limits
+- Generate event graphics and promotional materials
+- Schedule promotional posts across all channels
+
+**Success criteria**: Event published and registration open with first attendees signed up
+
+### Step 4: Promote Event  
+**Timeline**: 2-3 weeks before event  
+**Responsible**: Marketing Manager + all organizers
+
+**Process**:
+- Execute promotional campaign across multiple channels
+- Personal outreach to key community members and companies
+- Cross-promotion with related communities and groups
+- Speaker shares event with their networks
+- Monitor registration numbers and adjust promotion as needed
+
+**Success criteria**: 80%+ of venue capacity registered 48 hours before event
+
+### Step 5: Run Event
+**Timeline**: Event day  
+**Responsible**: Event Coordinator + volunteers
+
+**Process**:
+- Arrive 45 minutes early for setup and sound check
+- Welcome attendees and facilitate networking
+- Introduce speaker and manage Q&A session
+- Capture photos and manage any live streaming/recording
+- Facilitate post-talk networking and venue cleanup
+
+**Success criteria**: Event runs smoothly with positive attendee feedback
+
+### Step 6: Post-Event Publishing
+**Timeline**: Within 1 week after event  
+**Responsible**: Infrastructure Maintainer + Marketing Manager
+
+**Process**:
+- Publish slides and any code repositories to community GitHub
+- Share photos and summary on social media channels
+- Send thank you messages to speaker, venue, and key attendees  
+- Collect and analyze attendee feedback
+- Update speaker database with performance notes
+
+**Success criteria**: Event materials publicly available and feedback collected for improvement
+
+## 3.2 Event Agenda Template
+
+**Standard PyData Johannesburg Event Format**
+
+```
+6:00 PM - 6:15 PM    Arrivals & Networking
+                     Light snacks and informal networking
+
+6:15 PM - 6:25 PM    Community Updates
+                     - Upcoming events announcement
+                     - Community news and opportunities
+                     - New member introductions
+
+6:25 PM - 7:10 PM    Main Talk
+                     45-minute presentation with live Q&A
+
+7:10 PM - 7:30 PM    Extended Q&A & Discussion
+                     More detailed questions and community discussion
+
+7:30 PM - 8:00 PM    Networking & Wrap-up
+                     Informal networking with drinks/snacks
+```
+
+**Workshop Format (Alternative)**
+```
+9:00 AM - 9:15 AM    Registration & Setup
+9:15 AM - 10:45 AM   Session 1
+10:45 AM - 11:00 AM  Break  
+11:00 AM - 12:30 PM  Session 2
+12:30 PM - 1:30 PM   Lunch & Networking
+1:30 PM - 3:00 PM    Session 3
+3:00 PM - 3:15 PM    Break
+3:15 PM - 4:30 PM    Session 4
+4:30 PM - 5:00 PM    Wrap-up & Next Steps
+```
+
+## 3.3 Event Promotion Channels
+
+### Primary Channels
+
+**Meetup.com**
+- Main registration platform
+- Reach: 800+ members
+- Best for: Event logistics and RSVPs
+- Post timing: 2-3 weeks before event
+
+**LinkedIn Company Page**  
+- Professional network engagement
+- Reach: 500+ followers
+- Best for: Industry professionals and career-focused content
+- Post timing: 2 weeks, 1 week, and day-of event
+
+**Community WhatsApp Group**
+- Direct communication with active members
+- Reach: 150+ engaged members
+- Best for: Urgent updates and community discussion
+- Use sparingly to avoid spam
+
+**Discord Server**
+- Technical discussions and async community
+- Reach: 100+ members  
+- Best for: Detailed technical discussions and Q&A
+- Ongoing conversation space
+
+### Secondary Channels
+
+**Twitter/X (@PyDataJburg)**
+- Broader tech community reach
+- Cross-promotion with global PyData network
+- Real-time event updates and live-tweeting
+
+**Company Internal Communications**
+- Organizer networks sharing with their companies
+- High-conversion channel for corporate attendees
+- Requires personal relationship activation
+
+**University Partnerships**
+- Academic community outreach
+- Student and researcher attendance
+- Often coordinated through specific faculty contacts
+
+## 3.4 Post Event Activities
+
+### Immediate (Within 24 Hours)
+- Thank speaker publicly on social media
+- Share key photos from event
+- Send thank you email to venue host
+- Upload presentation slides to GitHub
+
+### Short-term (Within 1 Week)  
+- Publish detailed event summary blog post
+- Share speaker's contact info and relevant links
+- Send follow-up email to attendees with resources
+- Update speaker database with feedback and ratings
+
+### Medium-term (Within 1 Month)
+- Analyze attendance and feedback data
+- Identify potential speakers from attendee connections
+- Update promotional materials based on what worked
+- Plan follow-up conversations with engaged new members
+
+### Long-term (Ongoing)
+- Add successful speakers to repeat speaker pipeline
+- Maintain relationships with venue partners
+- Document lessons learned for future event improvement
+- Use event success stories in sponsor conversations

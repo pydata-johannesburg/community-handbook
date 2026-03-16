@@ -1,0 +1,91 @@
+# PyData Johannesburg Community Handbook {.unnumbered}
+
+Welcome to the PyData Johannesburg Community Handbook - a comprehensive guide for building, organizing, and sustaining a thriving data science community in South Africa and beyond.
+
+## What is PyData Johannesburg?
+
+PyData Johannesburg is part of the global PyData network, focused on building a vibrant community around Python tools and practices in the data ecosystem. We bring together data scientists, analysts, engineers, and enthusiasts to share knowledge, learn together, and advance the field of data science in South Africa.
+
+**Our mission**: Build the strongest Python data community in South Africa while serving as a model for developer communities in emerging markets.
+
+## The Challenge This Handbook Addresses
+
+Too many developer communities fail when founders step back or organizers burn out. This handbook exists to prevent that by making the invisible work of community building visible and transferable.
+
+Strong technical communities do not survive because of events - they survive because they build **structures that outlive individuals**.
+
+## How to Use This Handbook
+
+This handbook serves multiple purposes:
+
+- **For Organizers**: A complete operational guide from event planning to strategic growth
+- **For Contributors**: Understanding pathways for involvement and community leadership
+- **For Corporations**: Framework for meaningful community partnership and support
+- **For the Ecosystem**: Documentation of best practices for communities in emerging markets
+- **For Other Communities**: Replicable model and lessons learned
+
+## Key Frameworks and Concepts
+
+This handbook introduces several frameworks for understanding and building sustainable communities:
+
+### The Community Flywheel
+How successful communities create reinforcing loops that accelerate growth: Events → Attendees → Contributors → Speakers → Better Content → Industry Interest → Sponsors → Better Events
+
+### The 4-Stage Maturity Model  
+- **Stage 1**: Founder Phase (single organizer)
+- **Stage 2**: Early Community (small organizing team)
+- **Stage 3**: Guild Community (distributed teams)
+- **Stage 4**: Ecosystem Hub (community becomes infrastructure)
+
+### The 5 Structures of Long-Lived Communities
+1. Guild Structure (distributed leadership)
+2. Speaker Engine (sustainable speaker pipeline)  
+3. Venue Alliances (corporate partnerships)
+4. Event Rhythm (consistent scheduling)
+5. Identity Layer (roles and belonging)
+
+### The 7 Acceleration Signals
+Indicators that a community is about to enter rapid growth, from speakers approaching the community to companies offering venues.
+
+## Structure
+
+The handbook is organized into actionable sections:
+
+1. **Operating Model**: Core principles, organizational structure, and expectations
+2. **Event Operations**: Practical guidance for planning, promoting, and running events  
+3. **Community Infrastructure**: Tools, platforms, and systems that support growth
+4. **Development Framework**: Strategic insights on building sustainable communities
+5. **Strategic Growth**: Long-term vision, partnerships, and expansion opportunities
+
+## Emerging Market Advantage
+
+This handbook pays special attention to the unique advantages available to technical communities in emerging markets like South Africa:
+
+- **Scarcity creates density**: Limited experts mean stronger community bonds
+- **Communities as career gateways**: Essential role in professional development
+- **Higher industry demand**: Acute talent shortages drive corporate investment
+- **Strategic ecosystem positioning**: Opportunity to influence national technical development
+
+## Contributing
+
+This handbook is a living document that evolves with our community. If you're involved in PyData Johannesburg or building similar communities, we welcome your:
+
+- **Process improvements** based on operational experience
+- **Case studies** from successful initiatives or instructive failures  
+- **Strategic insights** from partnership development and growth
+- **Framework refinements** based on changing community needs
+
+## Vision
+
+By 2031, PyData Johannesburg will be recognized as the premier data science community in Africa, serving as:
+
+- The primary platform for technical excellence in South African data science
+- A hub connecting industry, academia, and open source communities
+- The model for community development across the African continent  
+- A significant contributor to the global Python data ecosystem
+
+---
+
+*Version 1.0 - March 2026*  
+*Maintainer: PyData Johannesburg organizing team*  
+*Contact: community@pydatajburg.co.za*

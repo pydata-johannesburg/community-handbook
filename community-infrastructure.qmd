@@ -1,0 +1,180 @@
+# Community Infrastructure
+
+## 4.1 Communication Platforms
+
+PyData Johannesburg maintains presence across multiple platforms, each serving specific community needs and reaching different audience segments.
+
+### WhatsApp Group
+**Primary use**: Direct community engagement and announcements  
+**Members**: 150+ active participants  
+**Management**: Community Organisers
+
+**Best practices**:
+- Keep event announcements concise (max 2 messages)
+- Encourage technical questions but redirect lengthy discussions to Discord
+- Share job opportunities and community news
+- Moderate carefully to maintain professional tone
+- Use polls for quick community feedback
+
+**Guidelines**:
+- No self-promotion without prior organizer approval
+- Industry news sharing encouraged if relevant to Python/data
+- Job postings limited to 1 per company per month
+- Recruitment agencies must be pre-approved
+
+### Discord Server  
+**Primary use**: Technical discussions and extended community interaction  
+**Members**: 100+ members across multiple channels  
+**Management**: Infrastructure Maintainer + Community Organisers
+
+**Channel structure**:
+- `#general` - Community announcements and casual discussion
+- `#technical-help` - Q&A for Python and data science questions  
+- `#job-opportunities` - Career openings and networking
+- `#events` - Event planning and feedback
+- `#random` - Off-topic but community-relevant discussions
+
+**Moderation approach**:
+- Light-touch moderation focused on maintaining relevance
+- Encourage cross-posting interesting discussions to WhatsApp for broader reach
+- Archive inactive channels quarterly
+- Weekly discussion prompts from organizers to maintain engagement
+
+### LinkedIn Company Page
+**Primary use**: Professional brand building and industry networking  
+**Followers**: 500+ professionals  
+**Management**: Marketing & Community Manager
+
+**Content strategy**:
+- Event announcements with professional graphics
+- Speaker spotlights and post-event summaries  
+- Industry insights and Python ecosystem news
+- Community member achievements and career updates
+- Cross-promotion with other professional data communities
+
+**Engagement tactics**:
+- Tag speakers and their companies in event promotions
+- Share members' LinkedIn articles and achievements
+- Comment on and share relevant industry discussions
+- Use LinkedIn Events for professional event promotion
+
+### Meetup.com
+**Primary use**: Event registration and discovery  
+**Members**: 800+ registered members  
+**Management**: Event Coordinator
+
+**Platform benefits**:
+- Primary event discovery mechanism for new members
+- Integrated RSVP management with waitlist functionality
+- Event photos and historical archive
+- Member messaging capabilities for event coordination
+- Integration with calendar systems
+
+**Optimization strategies**:
+- SEO-optimized event titles and descriptions
+- Regular posting schedule to maintain algorithmic visibility
+- Encourage attendee reviews and photos
+- Use Meetup messaging for pre-event reminders and logistics
+
+## 4.2 Knowledge Infrastructure
+
+### GitHub Organisation
+**Repository structure**:
+- `event-materials/` - Slides, code, and resources from each event
+- `community-resources/` - Shared datasets, tutorials, and guides
+- `organizer-handbook/` - This handbook and organizer documentation
+- `website/` - Community website source code
+
+**Management practices**:
+- Standard repository templates for event materials
+- Clear naming conventions: `YYYY-MM-event-title`
+- README templates for consistent documentation
+- Issue templates for community feedback and suggestions
+
+### Slides Archive  
+**Organisation system**:
+- Chronological filing by event date
+- Speaker name and topic in filename
+- PDF format for universal accessibility  
+- Original format preserved when possible
+
+**Access and sharing**:
+- Public GitHub repository for maximum accessibility
+- Direct links shared in post-event communications
+- Speaker attribution and contact info included
+- License terms clearly specified (usually CC-BY)
+
+### Event Documentation
+**Standard documentation includes**:
+- Event agenda and learning objectives
+- Attendee feedback summary (anonymized)  
+- Photos and key moments capture
+- Follow-up resources and links
+- Lessons learned for future events
+
+**Documentation workflow**:
+- Template completed within 48 hours of event
+- Community review period before publishing
+- Integration with website and social media
+- Archive maintenance for historical reference
+
+## 4.3 Community Data Assets
+
+### Speaker Database
+**Core information tracked**:
+- Contact details and preferred communication method
+- Talk topics and expertise areas
+- Speaking experience level and presentation quality
+- Audience feedback scores and comments
+- Availability and travel requirements
+- Company affiliation and approval processes
+
+**Privacy and consent**:
+- Explicit consent for data retention and future contact
+- GDPR-compliant data storage and access controls
+- Regular data cleanup and consent renewal
+- Opt-out mechanisms clearly communicated
+
+**Usage patterns**:
+- Speaker sourcing for upcoming events
+- Diversity and inclusion tracking across events
+- Reference for other PyData chapters seeking speakers
+- Community networking and collaboration facilitation
+
+### Sponsor Database  
+**Relationship information**:
+- Primary contacts and decision-making process
+- Sponsorship history and contribution levels
+- Employee engagement patterns and preferences
+- Venue partnership arrangements
+- Marketing collaboration opportunities
+
+**Sponsorship tracking**:
+- Financial contributions and in-kind support
+- Venue partnerships and catering arrangements
+- Equipment loans and technical support
+- Employee speaker and volunteer contributions
+- Brand visibility and community benefit measurement
+
+### Venue Database
+**Venue details tracked**:
+- Capacity specifications and layout options
+- Technical capabilities (AV, WiFi, power)
+- Catering policies and preferred suppliers  
+- Access requirements and parking availability
+- Contact persons and booking procedures
+- Cost structures and partnership terms
+
+**Evaluation criteria**:
+- Accessibility compliance and ease of access
+- Professional atmosphere suitable for corporate attendees
+- Technical reliability for presentations and demos
+- Networking space and post-event socializing
+- Relationship quality with venue management
+
+**Partnership development**:
+- Regular relationship maintenance with key venues
+- Feedback sharing for mutual improvement
+- Cross-promotion opportunities with venue partners
+- Long-term agreements for recurring events
+- Backup venue relationships for flexibility

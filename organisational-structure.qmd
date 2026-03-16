@@ -1,0 +1,82 @@
+# Organisational Structure
+
+PyData Johannesburg follows a **guild model** with distributed leadership rather than relying on a single organizer. This approach ensures sustainability, prevents burnout, and enables specialization across community functions.
+
+## Guild Model Architecture
+
+```{mermaid}
+flowchart TB
+    Lead[Community Lead]
+    
+    Lead --> Events[Events Team]
+    Lead --> Speakers[Speaker Pipeline Team]
+    Lead --> Partnerships[Industry Partnerships]
+    Lead --> Universities[University Outreach]
+    Lead --> Marketing[Marketing & Community]
+    Lead --> Infrastructure[Infrastructure Team]
+    
+    Events --> EventCoord[Event Coordinator]
+    Events --> Volunteers[Event Volunteers]
+    
+    Speakers --> SpeakerCoord[Speaker Coordinator]  
+    Speakers --> Mentors[Speaker Mentors]
+    
+    Partnerships --> CorpRel[Corporate Relations]
+    Partnerships --> Venues[Venue Partners]
+    
+    Universities --> AcademicOut[Academic Outreach]
+    Universities --> StudentEng[Student Engagement]
+```
+
+## Leadership Roles
+
+### Community Lead
+- Overall community strategy and coordination
+- External representation and ecosystem relationships  
+- Conflict resolution and major decision-making
+- Organizer team development and succession planning
+
+### Team Leads
+- **Events Team Lead**: End-to-end event execution
+- **Speaker Pipeline Lead**: Content quality and speaker development
+- **Partnership Lead**: Corporate relationships and venue partnerships
+- **University Outreach Lead**: Academic community integration
+- **Marketing Lead**: Brand development and community growth
+- **Infrastructure Lead**: Technical systems and knowledge management
+
+## Team Structure Benefits
+
+### Sustainability
+- Distributed workload prevents single points of failure
+- Multiple people understand critical community functions
+- Natural succession planning built into structure
+
+### Specialization  
+- Team members develop deep expertise in specific areas
+- Higher quality outcomes through focused responsibility
+- Professional development opportunities for organizers
+
+### Scale
+- Structure supports community growth from 30 to 300+ attendees
+- Clear pathways for adding capacity as community expands
+- Systematic approach to organizer onboarding and development
+
+## Coordination Mechanisms
+
+### Communication
+- Monthly all-hands meetings for strategic alignment
+- Bi-weekly team lead coordination calls
+- Shared documentation and project management systems
+- Regular community feedback integration
+
+### Decision Making
+- Team autonomy within defined authority levels
+- Escalation paths for cross-team or strategic decisions
+- Community input mechanisms for major changes
+- Documentation of decisions and rationale
+
+### Resource Sharing
+- Shared budget responsibility and expense coordination
+- Cross-team volunteer support during peak periods
+- Knowledge sharing and best practice documentation
+- Joint planning for major initiatives and events

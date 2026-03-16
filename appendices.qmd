@@ -1,0 +1,224 @@
+# Appendices
+
+## 15.1 Event Templates
+
+### Standard Event Checklist
+**6 weeks before:**
+- [ ] Speaker confirmed with topic
+- [ ] Venue booked and confirmed
+- [ ] Date added to community calendar
+
+**4 weeks before:**
+- [ ] Event created on Meetup and LinkedIn
+- [ ] Promotional graphics designed
+- [ ] Initial promotion posted to all channels
+
+**2 weeks before:**
+- [ ] Speaker prep call completed
+- [ ] Catering arranged (if applicable)
+- [ ] AV requirements confirmed with venue
+- [ ] Registration numbers monitored
+
+**1 week before:**
+- [ ] Final promotion push across all channels  
+- [ ] Logistics confirmed with venue and speaker
+- [ ] Volunteer roles assigned
+- [ ] Materials and equipment list finalized
+
+**Day of event:**
+- [ ] Arrive 45 minutes early for setup
+- [ ] Test all AV equipment with speaker
+- [ ] Welcome attendees and facilitate introductions
+- [ ] Manage Q&A and discussion
+- [ ] Take photos and notes for follow-up
+
+**Within 48 hours:**
+- [ ] Thank you messages sent
+- [ ] Photos shared on social media
+- [ ] Slides uploaded to GitHub
+- [ ] Event summary drafted
+
+### Lightning Talk Format
+
+**5-Minute Lightning Talk Structure:**
+1. **Problem/Challenge** (1 minute): What were you trying to solve?
+2. **Approach** (2 minutes): What tools/methods did you use?
+3. **Results/Learning** (1.5 minutes): What worked? What didn't?
+4. **Next Steps** (0.5 minutes): How can others learn more?
+
+**Submission template:**
+```
+Lightning Talk Proposal
+Title: [Descriptive title in 5-8 words]
+Speaker: [Name and brief background]
+Problem: [What challenge/question were you addressing?]
+Approach: [What Python tools/libraries did you use?]  
+Audience: [Who would benefit from this content?]
+Slides: [Will you have slides? Live demo? Code walkthrough?]
+```
+
+## 15.2 Speaker Guidelines
+
+### Speaker Onboarding Process
+
+**Initial Contact (4-6 weeks before):**
+- Welcome and confirm talk details
+- Share speaker guidelines and expectations
+- Schedule prep call 2 weeks before event
+- Provide venue and audience information
+
+**Content Development Support:**
+- Review talk abstract and learning objectives
+- Suggest content adjustments based on audience
+- Connect with previous speakers for advice
+- Offer practice session if requested
+
+**Technical Preparation:**
+- Confirm slide format and technical requirements
+- Test screen resolution and display adapters
+- Backup plans for live demos and internet connectivity
+- Recording and sharing permissions
+
+### Talk Content Guidelines
+
+**Audience Expectations:**
+- Mixed experience levels (beginner to expert)
+- Industry practitioners and open source contributors
+- 45-60 people in typical audience
+- High engagement with Q&A and discussion
+
+**Technical Level:**
+- Code examples should be accessible to intermediate Python users
+- Explain domain-specific concepts for general audience
+- Balance practical application with technical depth
+- Live coding should include error handling and debugging
+
+**Engagement Tactics:**
+- Interactive elements and audience polling
+- Real-world examples and case studies  
+- Q&A throughout presentation, not just at end
+- Actionable next steps for attendees
+
+### Speaker Support Resources
+
+**Presentation Templates:**
+- Standard slide template with PyData branding
+- Code formatting and syntax highlighting guides
+- Image and graphic usage guidelines
+
+**Practice and Feedback:**
+- Connect with PyData Johannesburg organizers for content review
+- Practice sessions with small groups if beneficial
+- Recording options for remote practice and feedback
+
+**Promotion Support:**
+- Social media graphics and promotional copy
+- Speaker bio and photo requirements
+- Cross-promotion through speaker's networks
+
+## 15.3 Sponsor Guidelines
+
+### Partnership Levels
+
+**Venue Partner ($0 + venue)**
+- Host 1-2 events per year in company office space
+- Professional meeting room with AV capabilities  
+- Light refreshments or coffee service
+- Employee attendance encouraged but not required
+
+**Event Sponsor ($500-1500 per event)**
+- Catering sponsorship for community events
+- Logo placement on event materials and social media
+- Brief company introduction during event
+- Job posting opportunities in community channels
+
+**Community Partner ($3000-5000 annually)**
+- Multiple event sponsorships throughout year
+- Speaker pipeline development with employee presenters
+- Priority access to community for hiring and engagement
+- Co-branded marketing opportunities
+
+**Strategic Partner ($5000+ annually)**
+- Comprehensive support including venue, catering, and marketing
+- Dedicated organizer liaison and planning support
+- Custom workshop and training opportunities
+- Integration with company's employee development programs
+
+### Sponsor Benefits Matrix
+
+| Benefit | Venue Partner | Event Sponsor | Community Partner | Strategic Partner |
+|---------|---------------|---------------|-------------------|-------------------|
+| Logo on materials | ✓ | ✓ | ✓ | ✓ |
+| Social media mentions | Basic | Standard | Extended | Premium |
+| Job posting access | Limited | Monthly | Weekly | Unlimited |
+| Employee speaker priority | No | No | Yes | Yes |
+| Custom events | No | No | Quarterly | On-demand |
+| Organizer meetings access | No | No | Yes | Yes |
+
+### Partnership Development Process
+
+**Initial Contact:**
+- Identify companies with active Python/data science teams
+- Introduce PyData mission and community value
+- Assess company's community engagement goals
+- Propose appropriate partnership level
+
+**Ongoing Relationship:**
+- Quarterly check-ins with key contacts
+- Report on community engagement and impact
+- Adjust partnership level based on company needs
+- Facilitate connections between company teams and community
+
+## 15.4 Community Code of Conduct
+
+### Core Values
+
+**Inclusivity**: PyData Johannesburg welcomes people of all backgrounds, experience levels, and perspectives. We actively work to create an environment where everyone can participate fully.
+
+**Respect**: We treat all community members with dignity and professionalism. Disagreements on technical topics are welcome; personal attacks and discrimination are not.
+
+**Learning**: We prioritize knowledge sharing and skill development. Questions at all levels are encouraged. Experts are expected to be patient teachers.
+
+**Collaboration**: We believe the data ecosystem is strongest when people work together. Commercial competition is normal; community cooperation is essential.
+
+### Expected Behavior
+
+- Use welcoming and inclusive language
+- Respect different viewpoints and experiences  
+- Give and accept constructive feedback gracefully
+- Focus on what's best for the community
+- Show empathy toward other community members
+
+### Unacceptable Behavior
+
+- Harassment, discrimination, or intimidation of any kind
+- Trolling, insulting comments, or personal attacks
+- Public or private harassment
+- Publishing others' private information without permission
+- Commercial spam or excessive self-promotion
+
+### Reporting and Enforcement
+
+**Reporting Process:**
+- Contact any organizer directly via private message
+- Email community@pydatajburg.co.za for formal reports
+- All reports will be reviewed confidentially by organizer team
+- Response within 48 hours during business days
+
+**Enforcement Actions:**
+- Warning for first minor violations
+- Temporary suspension for repeated or serious violations  
+- Permanent ban for severe violations or harassment
+- Appeal process available for all enforcement actions
+
+**Organizer Responsibilities:**
+- Intervene quickly when violations occur
+- Document incidents and enforcement actions
+- Support affected community members
+- Regular training on inclusive community management
+
+---
+
+*This handbook is a living document. Last updated: March 2026*
+
+*For questions, suggestions, or contributions, contact the PyData Johannesburg organizing team.*

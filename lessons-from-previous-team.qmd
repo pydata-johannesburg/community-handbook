@@ -1,0 +1,88 @@
+# Lessons from the Previous Organising Team
+
+## 5.1 The Founder-Driven Community Problem
+
+Many developer communities suffer from over-dependence on their founders. When the original organizer steps back, the community often struggles or dies completely.
+
+**Key insights**:
+- Founder knowledge must be systematically documented and transferred
+- Decision-making processes need to be distributed early
+- Community identity should transcend any individual organizer
+- Succession planning must begin while the founder is still active
+
+## 5.2 Invisible Organiser Workload
+
+Event attendees see polished presentations and smooth operations, but don't understand the extensive behind-the-scenes work required.
+
+**Hidden tasks include**:
+- Venue coordination and relationship management
+- Speaker sourcing, vetting, and preparation support
+- Marketing across multiple channels and communities
+- Sponsor relationship development and management
+- Post-event content publishing and follow-up
+
+**Solution**: Make organizer work visible through regular community updates and volunteer onboarding materials.
+
+## 5.3 Corporate Job Constraints on Volunteers
+
+Most community organizers have demanding day jobs that create predictable constraints:
+
+**Common challenges**:
+- Limited availability during business hours for venue calls
+- Competing priorities during busy work periods
+- Company travel affecting event attendance
+- Energy depletion after intense work weeks
+
+**Mitigation strategies**:
+- Distribute organizer responsibilities across multiple people
+- Build buffer time into all event planning processes
+- Create systems that can run with minimal active intervention
+- Understand and accommodate organizer availability patterns
+
+## 5.4 Control and Permission Friction
+
+Centralized decision-making creates bottlenecks and reduces organizer effectiveness.
+
+**Permission friction points**:
+- All communications requiring lead organizer approval
+- Venue booking decisions made by single person
+- Speaker selection requiring full organizer consensus
+- Financial decisions concentrated with one individual
+
+**Solutions**:
+- Clear delegation of authority within defined parameters
+- Decision-making frameworks that enable autonomous action
+- Regular communication to maintain alignment without micromanagement
+
+## 5.5 Lack of Operational Rhythm
+
+Successful communities develop predictable operational rhythms that reduce decision fatigue and enable planning.
+
+**Benefits of rhythm**:
+- Attendees know when to expect events
+- Speakers can plan presentations in advance
+- Organizers can batch similar tasks
+- Sponsors can integrate events into their planning cycles
+
+**Key rhythms to establish**:
+- Monthly event schedule (e.g., third Thursday of each month)
+- Quarterly planning sessions with organizers
+- Annual community feedback and strategy sessions
+- Regular content themes (e.g., industry talks vs. open source projects)
+
+## 5.6 Speaker Pipeline Bottlenecks
+
+Over-reliance on organizer networks for speakers creates unsustainable workload and limits diversity.
+
+**Bottleneck causes**:
+- Only organizers actively sourcing speakers
+- No systematic approach to speaker development
+- Limited outreach beyond immediate professional networks
+- Insufficient support for first-time speakers
+
+**Pipeline solutions**:
+- Community-driven speaker nomination process
+- Partnership with companies to identify employee speakers
+- Mentorship program for developing new speakers
+- Regular speaking skills workshops
+- Clear path from attendee to contributor to speaker

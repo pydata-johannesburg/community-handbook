@@ -1,0 +1,174 @@
+# Organiser Expectations
+
+## Time Commitment
+
+Organizing PyData Johannesburg requires consistent, sustainable effort rather than intensive bursts. Understanding realistic time expectations helps maintain healthy volunteer engagement.
+
+### Role-Based Time Requirements
+
+**Community Lead**: 4-6 hours per week
+- Strategic planning and coordination (2 hours)
+- External relationship management (1-2 hours)
+- Team leadership and development (1-2 hours)
+- Crisis management and major decisions (as needed)
+
+**Team Leads**: 3-4 hours per week  
+- Team coordination and planning (1-2 hours)
+- Execution of primary responsibilities (2 hours)
+- Organizer meetings and communication (30 minutes)
+- Volunteer management and development (30 minutes)
+
+**Team Members**: 2-3 hours per week
+- Assigned project work and responsibilities (1.5-2 hours)
+- Team meetings and coordination (30 minutes)
+- Community event participation (varies)
+
+### Event Week Adjustments
+Expect 50-100% increase in time requirements during event weeks for:
+- Final logistics coordination and confirmation
+- Day-of-event setup, execution, and cleanup
+- Immediate post-event follow-up and documentation
+
+## Core Responsibilities
+
+### All Organizers
+
+**Community Engagement**
+- Attend 80% of community events (in-person or virtual)
+- Participate actively in organizer communication channels
+- Represent PyData values in all community interactions
+- Support fellow organizers during busy periods
+
+**Operational Excellence**
+- Complete assigned tasks within agreed timelines
+- Maintain quality standards for community deliverables
+- Provide regular updates on progress and challenges
+- Contribute to post-event evaluation and improvement
+
+**Communication Standards**
+- Respond to organizer communications within 48 hours
+- Attend monthly organizer meetings (1 hour, virtual)
+- Share relevant information and insights with appropriate teams
+- Escalate issues and conflicts promptly and constructively
+
+### Leadership Roles Additional Responsibilities
+
+**Strategic Contribution**
+- Participate in quarterly strategic planning sessions
+- Monitor team performance and community impact metrics
+- Identify opportunities for community growth and improvement
+- Mentor junior organizers and volunteers
+
+**External Representation**
+- Represent PyData Johannesburg at industry events when possible
+- Build relationships with potential speakers, partners, and sponsors
+- Share community success stories and lessons learned
+- Connect with other PyData chapters and Python ecosystem organizations
+
+## Professional Conduct Standards
+
+### Community Values Alignment
+- **Inclusivity**: Actively work to reduce participation barriers
+- **Quality**: Maintain high standards for content and organization
+- **Collaboration**: Facilitate connections and knowledge sharing
+- **Growth**: Support individual and community development
+
+### Conflict of Interest Management
+- Declare potential conflicts related to employers, sponsors, or speakers
+- Recuse from decisions where personal interests may influence judgment
+- Maintain transparency in partnership and sponsorship discussions
+- Prioritize community benefit over individual or organizational advantage
+
+### Confidentiality and Discretion
+- Protect sensitive information about speakers, sponsors, and community members
+- Handle conflicts and complaints with appropriate confidentiality
+- Avoid public criticism of community members, partners, or other organizers
+- Maintain professional communication standards in all contexts
+
+## Performance and Development
+
+### Success Metrics
+
+**Individual Performance**
+- Task completion rate and quality
+- Community feedback and engagement
+- Contribution to team objectives
+- Professional development and skill growth
+
+**Team Performance**  
+- Event quality and attendee satisfaction
+- Community growth and engagement metrics
+- Partnership development and sustainability
+- Innovation and continuous improvement
+
+### Development Opportunities
+
+**Skill Building**
+- Event planning and project management
+- Public speaking and presentation skills
+- Corporate partnership and negotiation
+- Marketing and community engagement
+- Technical and industry expertise development
+
+**Leadership Growth**
+- Team management and coordination
+- Strategic thinking and planning
+- Conflict resolution and problem-solving
+- External relationship building
+- Succession planning and knowledge transfer
+
+### Recognition and Advancement
+
+**Internal Recognition**
+- Monthly organizer achievement highlights
+- Annual community service awards
+- Leadership development opportunities
+- Increased responsibility and autonomy
+
+**External Recognition**
+- Speaking opportunities at other communities and conferences
+- Industry recognition and professional networking
+- Reference and recommendation letters
+- Connection to career advancement opportunities
+
+## Termination and Transition
+
+### Planned Departures
+- Minimum 3-month notice for leadership roles
+- Structured handoff process with documentation
+- Knowledge transfer and relationship transition
+- Continued advisory support if desired
+
+### Performance Issues
+- Clear communication of expectations and concerns
+- Development plan with specific improvement goals
+- Regular feedback and support during improvement period
+- Graceful transition if role change becomes necessary
+
+### Alumni Engagement
+- Invitation to join organizer alumni network
+- Opportunities for continued community involvement
+- Recognition for past contributions and achievements
+- Support for professional development and career growth
+
+## Volunteer Sustainability
+
+### Workload Management
+- Regular assessment of volunteer capacity and availability
+- Task redistribution during peak periods or personal challenges
+- Break periods and sabbatical options for long-term organizers
+- Flexible scheduling to accommodate life changes
+
+### Support Systems
+- Peer support and mentorship programs
+- Resource sharing and collaborative problem-solving
+- Professional development funding when possible
+- Mental health and wellness consideration
+
+### Succession Planning
+- Identification and development of potential successors
+- Cross-training across multiple community functions
+- Documentation of critical processes and relationships
+- Gradual responsibility transfer with overlap periods
+
+These expectations ensure that PyData Johannesburg maintains high standards while supporting sustainable volunteer engagement and community growth.
