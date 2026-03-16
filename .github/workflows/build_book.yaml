@@ -153,7 +153,7 @@ jobs:
           # Set Chrome path for Quarto
           export CHROME_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
           export PUPPETEER_EXECUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
-          quarto render --to html --execute-timeout 600
+          quarto render --to html
           
       - name: Build PDF version
         timeout-minutes: 30
@@ -164,7 +164,7 @@ jobs:
           export CHROME_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
           export PUPPETEER_EXECUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
           export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
-          quarto render --to pdf --execute-timeout 600 || echo "::warning::PDF build failed"
+          quarto render --to pdf || echo "::warning::PDF build failed"
           
       - name: Check build results
         if: always()
