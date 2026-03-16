@@ -1,165 +1,91 @@
-# PyData Johannesburg Operating Model
+# PyData Johannesburg Community Handbook {.unnumbered}
 
-## 2.1 Core Principles
+Welcome to the PyData Johannesburg Community Handbook - a comprehensive guide for building, organizing, and sustaining a thriving data science community in South Africa and beyond.
 
-PyData Johannesburg operates on four foundational principles that guide all decisions and activities:
+## What is PyData Johannesburg?
 
-### Community First
-- **Member needs drive decisions**: Event topics, timing, and format respond to community feedback
-- **Inclusive by design**: Actively work to reduce barriers to participation  
-- **Value contribution over consumption**: Encourage active participation from attendees
-- **Shared ownership**: Community members have agency in shaping direction
+PyData Johannesburg is part of the global PyData network, focused on building a vibrant community around Python tools and practices in the data ecosystem. We bring together data scientists, analysts, engineers, and enthusiasts to share knowledge, learn together, and advance the field of data science in South Africa.
 
-### Lightweight Governance
-- **Minimal bureaucracy**: Keep processes simple and avoid unnecessary complexity
-- **Distributed decision-making**: Empower organizers to act within agreed frameworks
-- **Transparent operations**: Share decision-making rationale with the community
-- **Iterative improvement**: Regularly review and adjust processes based on outcomes
+**Our mission**: Build the strongest Python data community in South Africa while serving as a model for developer communities in emerging markets.
 
-### Professional Standards
-- **Quality content**: Maintain high standards for talks and workshops
-- **Respectful environment**: Enforce code of conduct consistently and fairly
-- **Industry relevance**: Balance learning opportunities with practical applications
-- **Reliable operations**: Deliver consistent, well-organized events
+## The Challenge This Handbook Addresses
 
-### Industry + Open Source Collaboration
-- **Bridge building**: Connect corporate users with open source contributors
-- **Knowledge flow**: Facilitate learning in both directions between industry and projects
-- **Sustainable partnerships**: Build mutually beneficial relationships with sponsors
-- **Global connection**: Link local community to international developments
+Too many developer communities fail when founders step back or organizers burn out. This handbook exists to prevent that by making the invisible work of community building visible and transferable.
 
-## 2.2 Organisational Structure
+Strong technical communities do not survive because of events - they survive because they build **structures that outlive individuals**.
 
-PyData Johannesburg follows a **guild model** with distributed leadership rather than a single organizer handling all responsibilities. This structure ensures sustainability, prevents burnout, and enables specialization.
+## How to Use This Handbook
 
-```{mermaid}
-flowchart TB
-    Lead[Community Lead]
-    
-    Lead --> Events[Events Team]
-    Lead --> Speakers[Speaker Pipeline Team]
-    Lead --> Partnerships[Industry Partnerships]
-    Lead --> Universities[University Outreach]
-    Lead --> Marketing[Marketing & Community]
-    Lead --> Infrastructure[Infrastructure Team]
-    
-    Events --> EventCoord[Event Coordinator]
-    Events --> Volunteers[Event Volunteers]
-    
-    Speakers --> SpeakerCoord[Speaker Coordinator]  
-    Speakers --> Mentors[Speaker Mentors]
-    
-    Partnerships --> CorpRel[Corporate Relations]
-    Partnerships --> Venues[Venue Partners]
-    
-    Universities --> AcademicOut[Academic Outreach]
-    Universities --> StudentEng[Student Engagement]
-```
+This handbook serves multiple purposes:
 
-### 2.2.1 Lead Organiser
-**Primary responsibility**: Overall community strategy and coordination
+- **For Organizers**: A complete operational guide from event planning to strategic growth
+- **For Contributors**: Understanding pathways for involvement and community leadership
+- **For Corporations**: Framework for meaningful community partnership and support
+- **For the Ecosystem**: Documentation of best practices for communities in emerging markets
+- **For Other Communities**: Replicable model and lessons learned
 
-**Key activities**:
-- Set strategic direction for community growth
-- Coordinate between different organizer teams
-- Manage relationships with NumFOCUS and global PyData network
-- Handle escalated issues and conflicts
-- Represent community externally
+## Key Frameworks and Concepts
 
-**Time commitment**: 3-5 hours per week
-**Term**: 12-18 months with succession planning
+This handbook introduces several frameworks for understanding and building sustainable communities:
 
-### 2.2.2 Community Organisers (2-3 people)
-**Primary responsibility**: Day-to-day community engagement and member experience
+### The Community Flywheel
+How successful communities create reinforcing loops that accelerate growth: Events → Attendees → Contributors → Speakers → Better Content → Industry Interest → Sponsors → Better Events
 
-**Key activities**:
-- Respond to community questions and feedback
-- Facilitate discussions in community channels
-- Identify emerging topics and speakers
-- Support new member onboarding
-- Monitor community health metrics
+### The 4-Stage Maturity Model  
+- **Stage 1**: Founder Phase (single organizer)
+- **Stage 2**: Early Community (small organizing team)
+- **Stage 3**: Guild Community (distributed teams)
+- **Stage 4**: Ecosystem Hub (community becomes infrastructure)
 
-**Time commitment**: 2-3 hours per week
-**Term**: 6-12 months with flexible rotation
+### The 5 Structures of Long-Lived Communities
+1. Guild Structure (distributed leadership)
+2. Speaker Engine (sustainable speaker pipeline)  
+3. Venue Alliances (corporate partnerships)
+4. Event Rhythm (consistent scheduling)
+5. Identity Layer (roles and belonging)
 
-### 2.2.3 Event Coordinator
-**Primary responsibility**: End-to-end event execution
+### The 7 Acceleration Signals
+Indicators that a community is about to enter rapid growth, from speakers approaching the community to companies offering venues.
 
-**Key activities**:
-- Schedule and coordinate with venues
-- Manage event logistics (catering, AV, setup)
-- Handle registrations and attendee communications
-- Coordinate day-of-event operations
-- Collect and analyze event feedback
+## Structure
 
-**Time commitment**: 4-6 hours per month, 8+ hours during event weeks
-**Term**: 6-12 months
+The handbook is organized into actionable sections:
 
-### 2.2.4 Speaker Coordinator
-**Primary responsibility**: Speaker pipeline and content quality
+1. **Operating Model**: Core principles, organizational structure, and expectations
+2. **Event Operations**: Practical guidance for planning, promoting, and running events  
+3. **Community Infrastructure**: Tools, platforms, and systems that support growth
+4. **Development Framework**: Strategic insights on building sustainable communities
+5. **Strategic Growth**: Long-term vision, partnerships, and expansion opportunities
 
-**Key activities**:
-- Source and evaluate potential speakers
-- Support speaker preparation and content development
-- Manage speaker communications and scheduling
-- Maintain speaker database and feedback systems
-- Develop relationships with companies for employee speakers
+## Emerging Market Advantage
 
-**Time commitment**: 3-4 hours per week  
-**Term**: 12-18 months (relationship building benefits from continuity)
+This handbook pays special attention to the unique advantages available to technical communities in emerging markets like South Africa:
 
-### 2.2.5 Marketing & Community Manager
-**Primary responsibility**: Community growth and external communications
+- **Scarcity creates density**: Limited experts mean stronger community bonds
+- **Communities as career gateways**: Essential role in professional development
+- **Higher industry demand**: Acute talent shortages drive corporate investment
+- **Strategic ecosystem positioning**: Opportunity to influence national technical development
 
-**Key activities**:
-- Manage social media presence and event promotion
-- Create and distribute marketing materials
-- Build relationships with media and other communities
-- Track and analyze community growth metrics
-- Coordinate with sponsors on promotional activities
+## Contributing
 
-**Time commitment**: 2-3 hours per week
-**Term**: 6-12 months
+This handbook is a living document that evolves with our community. If you're involved in PyData Johannesburg or building similar communities, we welcome your:
 
-### 2.2.6 Infrastructure Maintainer
-**Primary responsibility**: Technical systems and digital assets
+- **Process improvements** based on operational experience
+- **Case studies** from successful initiatives or instructive failures  
+- **Strategic insights** from partnership development and growth
+- **Framework refinements** based on changing community needs
 
-**Key activities**:
-- Maintain community websites and online presence
-- Manage community communication platforms
-- Handle video recording and publishing workflows
-- Maintain speaker and event databases
-- Ensure data privacy and security compliance
+## Vision
 
-**Time commitment**: 2-4 hours per month, more during system updates
-**Term**: 12+ months (technical knowledge accumulates over time)
+By 2031, PyData Johannesburg will be recognized as the premier data science community in Africa, serving as:
 
-## 2.3 Organiser Expectations
+- The primary platform for technical excellence in South African data science
+- A hub connecting industry, academia, and open source communities
+- The model for community development across the African continent  
+- A significant contributor to the global Python data ecosystem
 
-### Time Commitment
-Organizing requires consistent, sustainable effort rather than intense bursts:
-- **Minimum viable**: 2 hours per week for most roles
-- **Optimal performance**: 3-5 hours per week for lead roles
-- **Event weeks**: Expect 50-100% increase in time requirements
-- **Flexibility**: Workload varies by season and community growth phase
+---
 
-### Responsibilities
-All organizers are expected to:
-- **Attend monthly organizer meetings** (1 hour, virtual)
-- **Participate in 80% of community events** (either in person or virtual)
-- **Respond to community communications** within 48 hours during business days
-- **Complete assigned pre-event tasks** at least 1 week before events
-- **Provide feedback and improvement suggestions** after each event
-
-### Professional Conduct
-- **Represent PyData values** in all community interactions
-- **Maintain confidentiality** around sensitive community or sponsor information
-- **Declare conflicts of interest** when they arise
-- **Support fellow organizers** and share workload during busy periods
-- **Follow escalation procedures** for difficult situations
-
-### Promotion and Outreach
-- **Personal networks**: Leverage professional connections to identify speakers and attendees
-- **Industry presence**: Attend other data events to build relationships and represent PyData
-- **Content creation**: Contribute blogs, social posts, or talks about community activities
-- **Mentorship**: Support new organizers and community members
+*Version 1.0 - March 2026*  
+*Maintainer: PyData Johannesburg organizing team*  
+*Contact: community@pydatajburg.co.za*
