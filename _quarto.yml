@@ -77,7 +77,7 @@ format:
     include-in-header: plausible.html
     callout-appearance: simple
     mermaid:
-      theme: default
+      theme: neutral
 
 # PDF output temporarily disabled due to LaTeX compatibility issues
 # Re-enable after resolving XeTeX/expl3 package version conflicts
