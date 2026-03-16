@@ -20,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: true
     steps:
       - uses: actions/checkout@v2
 
@@ -30,11 +31,21 @@ jobs:
           tinytex: true
           # uncomment below and fill to pin a version
           # version: 0.9.105
+      
+      - name: Install system dependencies for Mermaid
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+          
+      - name: Set Chromium path for Puppeteer
+        run: |
+          echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser" >> $GITHUB_ENV
 
       - name: Render book to all format
         # Add any command line argument needed
+        timeout-minutes: 20
         run: |
-          quarto render
+          quarto render --execute-timeout 600
 
       - name: Upload website artifact
         if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' }}
