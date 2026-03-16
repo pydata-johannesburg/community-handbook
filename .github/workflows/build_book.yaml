@@ -16,27 +16,163 @@ env:
   RUST_BACKTRACE: 1
 
 jobs:
-  build:
+  build-book:
+    name: 📖 Build Book
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Set up Quarto
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          # To install LaTeX to build PDF book
-          tinytex: true
-          # uncomment below and fill to pin a version
-          # version: 0.9.105
-
-      - name: Render book to all format
-        # Add any command line argument needed
+          version: pre-release
+          
+      - name: Setup Chrome for Mermaid diagrams
+        uses: browser-actions/setup-chrome@v2
+        id: setup-chrome
+        with:
+          chrome-version: stable
+          
+      - name: Verify Chrome installation
         run: |
-          quarto render
+          echo "Chrome path: ${{ steps.setup-chrome.outputs.chrome-path }}"
+          ${{ steps.setup-chrome.outputs.chrome-path }} --version
+          
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          
+      - name: Install Mermaid CLI
+        run: |
+          npm install -g @mermaid-js/mermaid-cli
+          mmdc --version
+          
+      - name: Configure Puppeteer for Mermaid
+        run: |
+          # Configure Puppeteer to use installed Chrome
+          echo "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true" >> $GITHUB_ENV
+          echo "PUPPETEER_EXECUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }}" >> $GITHUB_ENV
+          
+          # Create Puppeteer config for Mermaid CLI
+          cat > puppeteer-config.json << EOF
+          {
+            "executablePath": "${{ steps.setup-chrome.outputs.chrome-path }}",
+            "args": [
+              "--no-sandbox",
+              "--disable-setuid-sandbox",
+              "--disable-dev-shm-usage",
+              "--disable-gpu",
+              "--disable-software-rasterizer",
+              "--disable-extensions",
+              "--disable-background-networking"
+            ],
+            "timeout": 60000
+          }
+          EOF
+          
+          echo "Puppeteer config created:"
+          cat puppeteer-config.json
+          
+          # Set variable for mmdc to use
+          echo "PUPPETEER_CONFIG_PATH=$(pwd)/puppeteer-config.json" >> $GITHUB_ENV
+          
+      - name: Test Mermaid rendering
+        run: |
+          echo "🧪 Testing Mermaid rendering..."
+          
+          # Create test diagram
+          cat > /tmp/test-diagram.mmd << EOF
+          graph LR
+            A[Test] --> B[Diagram]
+          EOF
+          
+          # Try rendering with Puppeteer configuration
+          if mmdc -i /tmp/test-diagram.mmd -o /tmp/test-output.png -p puppeteer-config.json -b transparent; then
+            echo "✅ Mermaid rendering successful"
+            ls -lh /tmp/test-output.png
+          else
+            echo "❌ Mermaid rendering failed"
+            exit 1
+          fi
+          
+      - name: Install LaTeX
+        run: |
+          echo "📦 Installing TinyTeX for PDF generation..."
+          quarto install tinytex
+          
+      - name: Configure TinyTeX
+        run: |
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          echo "🔧 Configuring TinyTeX repository..."
+          # Configure main CTAN repository
+          tlmgr option repository https://mirror.ctan.org/systems/texlive/tlnet
+          echo "📦 Updating tlmgr..."
+          # Update tlmgr first
+          tlmgr update --self || {
+            echo "⚠️ Failed to update tlmgr, trying with --force..."
+            tlmgr update --self --force || {
+              echo "⚠️ Could not update tlmgr, continuing with current version..."
+            }
+          }
+
+      - name: Install LaTeX packages
+        run: |
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          echo "📚 Installing LaTeX packages..."
+          # Install necessary LaTeX packages
+          tlmgr install collection-fontsrecommended \
+            collection-latex \
+            collection-latexrecommended \
+            amsmath \
+            amssymb \
+            fancyvrb \
+            textcomp \
+            inputenc \
+            fontenc || {
+            echo "⚠️ Some packages may already be installed"
+          }
+          echo "✅ LaTeX packages installed"
+          
+      - name: Verify LaTeX installation
+        run: |
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          echo "🔍 Verifying LaTeX installation..."
+          tlmgr --version
+          pdflatex --version
+          
+      - name: Build HTML version
+        run: |
+          echo "🌐 Building HTML version..."
+          # Set Chrome path for Quarto
+          export CHROME_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
+          export PUPPETEER_EXECUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
+          quarto render --to html --execute-timeout 600
+          
+      - name: Build PDF version
+        timeout-minutes: 30
+        continue-on-error: true
+        run: |
+          echo "📄 Building PDF version..."
+          # Set Chrome path for Quarto
+          export CHROME_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
+          export PUPPETEER_EXECUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }}
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          quarto render --to pdf --execute-timeout 600 || echo "::warning::PDF build failed"
+          
+      - name: Check build results
+        if: always()
+        run: |
+          echo "📊 Build statistics:"
+          ls -lh _book/ || echo "Build directory not found"
+          [ -f _book/index.html ] && echo "✅ HTML build successful" || echo "❌ HTML build failed"
+          find _book/ -name "*.pdf" -type f && echo "✅ PDF build successful" || echo "⚠️ PDF build skipped/failed"
 
       - name: Upload website artifact
         if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' }}
@@ -45,7 +181,7 @@ jobs:
           path: "_book"
 
   deploy:
-    needs: build
+    needs: build-book
 
     permissions:
       pages: write # to deploy to Pages

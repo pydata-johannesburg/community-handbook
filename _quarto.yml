@@ -5,8 +5,6 @@ project:
 execute:
   freeze: auto
   timeout: 600
-  
-mermaid-format: png
 
 book:
   title: "PyData Johannesburg Community Handbook"
@@ -78,13 +76,13 @@ format:
     callout-appearance: simple
     mermaid:
       theme: neutral
+      timeout: 30000
 
-# PDF output temporarily disabled due to LaTeX compatibility issues
-# Re-enable after resolving XeTeX/expl3 package version conflicts
-#  pdf:
-#    documentclass: book
-#    latex-engine: xelatex
-#    keep-tex: true
+# PDF output re-enabled with improved LaTeX setup in CI
+  pdf:
+    documentclass: book
+    latex-engine: xelatex
+    keep-tex: true
 #    include-in-header: preamble.tex          # Optional if you use custom LaTeX config
 #    citation-package: natbib                 # Optional if using citations
 
